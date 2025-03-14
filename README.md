@@ -43,9 +43,9 @@ python eval.py -p dev_bonus.out -g dev
 #### Test Sets
 Use the test1.out, test2.out, and pred files for test sets:
 
-python eval.py -p test1.out -g {your Task 1 test file}
-python eval.py -p test2.out -g {your Task 2 test file}
-python eval.py -p pred -g {your Bonus Task test file}
+- python eval.py -p test1.out -g {your Task 1 test file}
+- python eval.py -p test2.out -g {your Task 2 test file}
+- python eval.py -p pred -g {your Bonus Task test file}
 
 
 ### File Handling Notes
